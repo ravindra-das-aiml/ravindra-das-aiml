@@ -19,7 +19,7 @@ I love turning ideas into practical solutions through coding, AI/ML, and softwar
 
 **Connect with me and explore my journey:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravindra%20Das-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindra-das-511b612a3) [![GitHub](https://img.shields.io/badge/GitHub-Ravindra%20Das-black?logo=github&logoColor=white)](https://github.com/ravindra-das-aiml) [![Portfolio](https://img.shields.io/badge/YouTube-NextGen%20AI-red?logo=youtube&logoColor=white)](https://www.youtube.com/@NextGenAI-e6g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravindra%20Das-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindra-das-511b612a3) [![GitHub](https://img.shields.io/badge/GitHub-Ravindra%20Das-black?logo=github&logoColor=white)](https://github.com/ravindra-das-aiml) [![Portfolio]
 [![](https://visitcount.itsvg.in/api?id=ravindra-das-aiml&icon=1&color=4)](https://visitcount.itsvg.in)
 <!-- Snake Game Repo View -->
 
