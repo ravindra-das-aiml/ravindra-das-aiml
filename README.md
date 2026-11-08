@@ -28,9 +28,6 @@ I love turning ideas into practical solutions through coding, AI/ML, and softwar
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 ## 🌐 Socials:
 
